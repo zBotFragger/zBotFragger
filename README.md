@@ -7,9 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc8003&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Maick+Vilhena;I'm+majoring+in+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zBotFragger&show_icons=true&count_private=true&hide_border=true&title_color=fc8003&icon_color=fc8003&text_color=fc8003&bg_color=0d1117" alt="Maick Vilhena github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=fc8003&text_color=fc8003&bg_color=0d1117" />
-</div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zBotFragger&show_icons=true&count_private=true&hide_border=true&title_color=fc8003&icon_color=fc8003&text_color=fc8003&bg_color=0d1117" alt="Maick Vilhena github stats"/> </div>
+   
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zBotFragger&bg_color=000000&color=fc8003&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
