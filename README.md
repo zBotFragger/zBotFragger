@@ -17,8 +17,11 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/maick-leon-dias-de-vilhena-224313157/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
+  <a href="https://www.linkedin.com/in/maick-leon-dias-de-vilhena-224313157/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
  
 <!-- ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
